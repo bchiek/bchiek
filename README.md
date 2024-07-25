@@ -89,9 +89,8 @@ A list a tools and & technologies I've used and/or managed. Not all items are in
     <img src="https://img.shields.io/badge/-KAPE-00A98F?&style=for-the-badge&logo=KAPE&logoColor=white" />
     <img src="https://img.shields.io/badge/-MISP-0033A0?&style=for-the-badge&logo=MISP&logoColor=white" />
     <img src="https://img.shields.io/badge/-OpenCTI-007ACC?&style=for-the-badge&logo=OpenCTI&logoColor=white" />
-    <img src="https://img.shields.io/badge/-PECmd-0078D4?&style=for-the-badge&logo=Windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/-LECmd-0078D4?&style=for-the-badge&logo=Windows&logoColor=white" />
     <img src="https://img.shields.io/badge/-PhishTool-3776AB?&style=for-the-badge&logo=PhishTool&logoColor=white" />
-    <img src="https://img.shields.io/badge/-PowerShell-5391FE?&style=for-the-badge&logo=PowerShell&logoColor=white" />
     <img src="https://img.shields.io/badge/-ProcDump-000000?&style=for-the-badge&logo=Windows-Terminal&logoColor=white" />
     <img src="https://img.shields.io/badge/-Scalpel-777BB4?&style=for-the-badge&logo=Scalpel&logoColor=white" />
     <img src="https://img.shields.io/badge/-Sigma-FF6347?&style=for-the-badge&logo=Sigma&logoColor=white" />
